@@ -5,7 +5,32 @@
 1. _Then the third one_ ,yes! *This is a **blod italic** text!*
 1. \_Here you can find, \*this \*\*one\*\* is normal\*\_.
 
-  #### I can change the size
+- #### I can change the size
+
+- Add a picture
+![Link an image](https://github.com/yirki/A_markdown_practice/blob/main/image.png)
   
-  ![Link an image](/learn/azure-devops/shared/media/mara.png)
   
+- Make a table
+  1|2
+  -|-
+  a|b
+  -|-
+
+- > Quote a text
+
+- Write a `code`
+
+- ```
+  Write lines of
+  codes
+  like 
+  this
+  ```
+- ```python
+  print('Hello World!')
+  ```
+  
+- [x] Yes
+- [x] Yes
+- [ ] No 😊  
